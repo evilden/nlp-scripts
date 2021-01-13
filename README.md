@@ -1,2 +1,2 @@
 # nlp-scripts
-A collection of some NLP scripts.
+A collection of some NLP scripts and notebooks.
